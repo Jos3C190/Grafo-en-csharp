@@ -1,0 +1,14 @@
+d:\josec\Documents\PROYECTOS\Grafo\bin\Debug\net8.0\Grafo.exe
+d:\josec\Documents\PROYECTOS\Grafo\bin\Debug\net8.0\Grafo.deps.json
+d:\josec\Documents\PROYECTOS\Grafo\bin\Debug\net8.0\Grafo.runtimeconfig.json
+d:\josec\Documents\PROYECTOS\Grafo\bin\Debug\net8.0\Grafo.dll
+d:\josec\Documents\PROYECTOS\Grafo\bin\Debug\net8.0\Grafo.pdb
+d:\josec\Documents\PROYECTOS\Grafo\obj\Debug\net8.0\Grafo.GeneratedMSBuildEditorConfig.editorconfig
+d:\josec\Documents\PROYECTOS\Grafo\obj\Debug\net8.0\Grafo.AssemblyInfoInputs.cache
+d:\josec\Documents\PROYECTOS\Grafo\obj\Debug\net8.0\Grafo.AssemblyInfo.cs
+d:\josec\Documents\PROYECTOS\Grafo\obj\Debug\net8.0\Grafo.csproj.CoreCompileInputs.cache
+d:\josec\Documents\PROYECTOS\Grafo\obj\Debug\net8.0\Grafo.dll
+d:\josec\Documents\PROYECTOS\Grafo\obj\Debug\net8.0\refint\Grafo.dll
+d:\josec\Documents\PROYECTOS\Grafo\obj\Debug\net8.0\Grafo.pdb
+d:\josec\Documents\PROYECTOS\Grafo\obj\Debug\net8.0\Grafo.genruntimeconfig.cache
+d:\josec\Documents\PROYECTOS\Grafo\obj\Debug\net8.0\ref\Grafo.dll
